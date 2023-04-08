@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/signup/static/css/main.f7ce87b8.css",
+    "main.js": "/signup/static/js/main.fb45d07c.js",
+    "static/media/globe.png": "/signup/static/media/globe.43274d3958d44c6fcfd3.png",
+    "index.html": "/signup/index.html",
+    "main.f7ce87b8.css.map": "/signup/static/css/main.f7ce87b8.css.map",
+    "main.fb45d07c.js.map": "/signup/static/js/main.fb45d07c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7ce87b8.css",
+    "static/js/main.fb45d07c.js"
+  ]
+}
